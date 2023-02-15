@@ -1,0 +1,64 @@
+body{
+    background-color:#f9f5ed;
+   
+    /* background-origin: border-box;
+     */
+     padding-left: 30px;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+     font-size: x-large;
+   list-style: none;
+   gap: 30px;
+   /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 15px; */
+
+   
+    }
+nav ul li img{
+    height: 50%;
+    width: 50%;
+}
+nav >button{
+    float: right;
+    margin-top: -53px;
+    
+    margin-right: 50px;
+}
+
+button
+{
+    color: white;
+    background-color: #23499b;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 15px;
+    padding: 5px 6px;
+    text-transform: uppercase;
+
+}
+nav ul li{
+    text-transform: uppercase;
+    font-weight: 600;
+}
+section>div>p{
+    text-transform: capitalize;
+    color: rgb(74, 74, 219);
+
+}
+ h1{
+    font-size: 500%;
+}
+span{
+    color: rgb(105, 105, 215);
+}
+section{
+    background-image: url(file:///C:/Users/91724/Pictures/Saved%20Pictures/Screenshots/Screenshot_20230214_165919.png)  ;
+    background-repeat: no-repeat;
+    background-position:center;
+    
+    background-size: 30%;
+ padding-left: 50px;
+}
+
